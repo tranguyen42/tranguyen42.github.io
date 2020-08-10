@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Tra Nguyen"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/github_ava.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Enschede, the Netherlands"
   email            : "nguyenthanhtra109@gmail.com"
